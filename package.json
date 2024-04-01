@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.7.0",
+    "uuid": "^9.0.0"
+  }
+}
